@@ -1,0 +1,1 @@
+@powershell -executionpolicy bypass -nologo -noprofile -file ./webcrack.ps1
